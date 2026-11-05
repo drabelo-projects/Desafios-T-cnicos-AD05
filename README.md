@@ -1,1 +1,1 @@
-# Desafios-T-cnicos-AD05
+# Desafios-Tecnicos-AD05
