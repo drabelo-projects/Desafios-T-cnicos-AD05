@@ -21,7 +21,7 @@ Repositório com exercícios, notebooks e planilhas desenvolvidos durante a form
 ## Prévia dos Dashboards
 
 ### Atendimento ao Cliente
-![Dashboard Atendimento ao Cliente](DASH2.png)
+![Dashboard Atendimento ao Cliente](dash2.png)
 
 ### RH — GenTech
 ![Dashboard de RH da GenTech](DASH1.png)
