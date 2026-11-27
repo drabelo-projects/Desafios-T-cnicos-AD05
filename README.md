@@ -18,6 +18,13 @@ Repositório com exercícios, notebooks e planilhas desenvolvidos durante a form
 * Parte dos conjuntos de dados utilizados nos exercícios possui caráter didático/fictício para prática de modelagem, limpeza e leitura de indicadores.
 * Nos dashboards em Excel, o foco foi manter indicadores claros, leitura objetiva dos gráficos e recomendações ligadas às evidências da base.
 
+## Prévia dos Dashboards
+
+### Atendimento ao Cliente
+![Dashboard Atendimento ao Cliente](dash1.png)
+
+### RH — GenTech
+![Dashboard de RH da GenTech](DASH1.png)
 ## Autor
 
 **Diogo Rabelo** — [@drabelo-projects](https://github.com/drabelo-projects)
